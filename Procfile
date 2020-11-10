@@ -1,0 +1,1 @@
+worker: python weather_email_whatsapp_1.py
